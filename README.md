@@ -5,7 +5,7 @@
 ![Superstore Sales and Profitability Dashboard](images/superstore_dashboard.png)
 
 ## Interactive Dashboard
-[View the Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/18anRABAmUYzpHAo7EYm6JXlC5yD8k-pruxkZcyTzsPI/edit?usp=sharing)
+View the Google Sheets Dashboard
 
 ## Business Case
 
