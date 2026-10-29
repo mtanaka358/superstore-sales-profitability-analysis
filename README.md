@@ -110,3 +110,21 @@ These findings suggest that sales performance should be evaluated alongside prof
 - Recommendations identify areas for further investigation rather than guaranteeing specific financial improvements.
 
 
+## Verification and Reproducibility
+
+The analysis uses the Sample Superstore dataset linked in the Data Source section.
+
+Key calculations include:
+
+- **Total Sales:** Sum of Sales
+- **Total Profit:** Sum of Profit
+- **Profit Margin:** Total Profit / Total Sales × 100
+- **Total Orders:** Count of distinct Order IDs
+
+Data quality checks include missing values, data types, duplicate Row IDs, and date consistency.
+
+The original Google Sheets workbook is not publicly shared. Readers can obtain the dataset from the linked Kaggle source and independently reproduce the key calculations.
+
+However, the workbook's formulas and intermediate calculations cannot be directly inspected through this repository.
+
+
