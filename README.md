@@ -1,11 +1,9 @@
-# superstore-sales-profitability-analysis
+# Superstore Sales Profitability Analysis
 
 ## Dashboard Preview
 
 ![Superstore Sales and Profitability Dashboard](images/superstore_dashboard.png)
 
-## Interactive Dashboard
-View the Google Sheets Dashboard
 
 ## Business Case
 
